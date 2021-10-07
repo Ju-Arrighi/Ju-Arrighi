@@ -1,4 +1,4 @@
-# Ju-Arrighi
+
 <h1 align="center">Hello there 👋, I'm Ju 🙈</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
